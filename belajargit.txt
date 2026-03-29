@@ -1,2 +1,3 @@
 Ini adalah teks awal dari semuanya
 
+- 2027 gua kuliah di ITB/kerja di google sebagai web backend developer
